@@ -1,5 +1,5 @@
 package Kiemtra;
-
+/* Bai 2 */
 class KyThuat extends NhanVien {
     private String chuyenNganh;
     public KyThuat(String maNhanVien, String hoTen, String namSinh, String diaChi, String chuyenNganh) {
