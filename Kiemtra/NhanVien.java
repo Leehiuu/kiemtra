@@ -1,5 +1,5 @@
 package Kiemtra;
-
+/*Bài 2*/
 public abstract class NhanVien {
     protected String maNhanVien;
     protected String hoTen;
